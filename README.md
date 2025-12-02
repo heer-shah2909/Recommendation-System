@@ -1,0 +1,1 @@
+A content based filtering that makes up a recommendation system. We used 10,000 restaurants data, did feature engineering to provide a main feature then used content based filtering to recommend restaurants based on input restaurant. Also created an interactive dashboard for recommendation.
